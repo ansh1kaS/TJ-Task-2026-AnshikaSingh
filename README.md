@@ -1,7 +1,7 @@
 # TJ-Task-2026-Anshika
 Responsive Flipkart clone website
 
-Live Demo: https://thenooblearner.github.io/TJ-Task-2026-AnshikaSingh/
+Live Demo: https://ansh1kas.github.io/TJ-Task-2026-AnshikaSingh/
 
 Approach: The goal was to recreate the core layout and visual style of an e-commerce homepage (inspired by Flipkart), with a focus on responsiveness and clean structure.
 
@@ -30,11 +30,16 @@ Tech Stack:
 2. CSS3 (Flexbox, Grid, Media Queries)
 
 Screenshots:
-<img width="1364" height="719" alt="image" src="https://github.com/user-attachments/assets/38bbf3e6-da6d-4603-99de-1b821a1a48e8" />
+<img width="1363" height="717" alt="image" src="https://github.com/user-attachments/assets/241631c3-8f4c-44b6-aebf-9d5ef04d0164" />
+
 Part 1
-<img width="1361" height="716" alt="image" src="https://github.com/user-attachments/assets/cf01aad2-4879-4a54-9899-2ca73af4fa08" />
+
+<img width="1360" height="723" alt="image" src="https://github.com/user-attachments/assets/dd199197-add8-40f3-b916-c676617f9a26" />
+
 Part 2
-<img width="1358" height="721" alt="image" src="https://github.com/user-attachments/assets/c1acdf6b-1e6b-4141-bc82-e0251667b385" />
+
+<img width="1363" height="725" alt="image" src="https://github.com/user-attachments/assets/458565df-52d3-4d83-86f2-3e79fe3510ff" />
+
 Part 3
 
 Author: 
